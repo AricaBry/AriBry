@@ -6,5 +6,4 @@
 
 :computer: Throughout my academic journey, I've gained skills in several programming languages including Python, Java, and C++. I've also delved a bit into computer graphics and 3D modeling. With school and current life challenges I rarely have free time but when I do I enjoy completing code challenges, working through Udemy courses, and tinkering with personal projects.
 
-# Current Projects
 :wrench: I am currently working to develop a simple inventory tracker app through Android Studio using Java.
