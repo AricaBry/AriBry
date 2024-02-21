@@ -4,7 +4,7 @@
 
 :books: Currently, I am pursuing a Bachelor of Science degree in Computer Science at Southern New Hampshire University.
 
-:computer: Throughout my academic journey, I've gained skills in several programming languages including Python, Java, and C++. I've also delved a bit into computer graphics and 3D modeling, using programming to recreate a real-life image. With school and current life challenges I rarely have free time but when I do I enjoy completing code challenges, working through Udemy courses, and tinkering with personal projects.
+:computer: Throughout my academic journey, I've gained skills in several programming languages including Python, Java, and C++. I've also delved a bit into computer graphics and 3D modeling. With school and current life challenges I rarely have free time but when I do I enjoy completing code challenges, working through Udemy courses, and tinkering with personal projects.
 
 # Current Projects
 :wrench: I am currently working to develop a simple inventory tracker app through Android Studio using Java.
